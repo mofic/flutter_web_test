@@ -57,7 +57,7 @@ class MainPage extends StatelessWidget {
                 onPressed: () {
                   pick();
                 },
-                child: const Text("write file test"))
+                child: const Text("write file"))
           ],
         ),
       ),
